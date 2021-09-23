@@ -14,13 +14,17 @@ My research interests are natural language processing are annotation artifact.
 - **Developer** and **Founder** at Indilist, Suwon, Korea _(Jul 2018 - Jun 2019)_
   - Establishment of an independent music platform and development of iOS application services
 
-## Publication
+<!-- ## Publication
 - [**Knowledge-Enhanced Evidence Retrieval for Counterargument Generation**](https://arxiv.org/abs/2109.09057)
 <br>Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy
 <br>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing _(EMNLP 2021, Findings)_
 - **Proposal and Simulation of Optimal Elevtric Vehicle Routing Algorithm**
 <br>Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**
-<br>KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
+<br>KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_ -->
+
+## Publication
+- Yohan Jo, Haneul Yoo, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](https://arxiv.org/abs/2109.09057)Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing _(EMNLP 2021, Findings)_
+- Moonsuk Choi, Inji Choi, Minhae Jang, Haneul Yoo, "Proposal and Simulation of Optimal Elevtric Vehicle Routing Algorithm", KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
 ## Teaching & Talk
 - **Teaching Assistant**, KAIST
