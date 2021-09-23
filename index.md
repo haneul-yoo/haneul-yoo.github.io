@@ -1,6 +1,6 @@
 ## About
 Hi, I'm Haneul Yoo, M.S. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
-My research interest is natural language processing, annotation artifact.
+My research interests are natural language processing are annotation artifact.
 
 ## Education
 - **M.S.** Major in School of Computing, KAIST _(Sep 2020 - current)_
