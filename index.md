@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## About
+Hi, I'm Haneul Yoo, M.S. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
+My research interest is natural language processing, annotation artifact.
 
-You can use the [editor on GitHub](https://github.com/haneul-yoo/Haneul-Yoo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+- **M.S.** Major in School of Computing, KAIST _(Sep 2020 - current)_
+- **B.S.** Major in Software and Computer Engineering and Digital Media, Ajou university _(Mar 2017 - Aug 2020)_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experiences
+- **Research Intern** at [KEPRI](https://www.kepri.re.kr:20808/), Daejeon, Korea _(Sep 2019 - Feb 2020)_
+  - Development of application services utilizing electric used power data
+- **Research Intern** at [CSIRO](https://www.csiro.au/), QLD, Australia _(Jul 2019 - Aug 2019)_
+  - Convolutional deep neural network for detecting cattle in images/videos
+- **Developer** and **Founder** at Indilist, Suwon, Korea _(Jul 2018 - Jun 2019)_
+  - Establishment of an independent music platform and development of iOS application services
 
-### Markdown
+## Publication
+- [**Knowledge-Enhanced Evidence Retrieval for Counterargument Generation**](https://arxiv.org/abs/2109.09057)
+<br>Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy
+<br>Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing _(EMNLP 2021, Findings)_
+- **Proposal and Simulation of Optimal Elevtric Vehicle Routing Algorithm**
+<br>Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**
+<br>KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Teaching & Talk
+- **Teaching Assistant**, KAIST
+  - Machine Learning _(2020 Fall)_
 
-```markdown
-Syntax highlighted code block
+## Academic Services
+- **Reviewer**, NeurIPS 2021 Track on Datasets and Benchmarks
 
-# Header 1
-## Header 2
-### Header 3
+## Honors & Awards
+- **Outstanding Volunteer Award** at Gyeonggi Volunteer Center _(Jun 2020)_
+- **Special Prize** at BIXPO 2019 _(Nov 2019)_
+- **Excellence Award** from Korea Invention Promotion Association at Creative Start-up Competition _(Nov 2019)_
+- **Full Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haneul-yoo/Haneul-Yoo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## References
+- [Alice Oh](https://aliceoh9.github.io/), Associate Professor, Computer Science, KAIST
