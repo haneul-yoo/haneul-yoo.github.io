@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+title: Haneul Yoo
+position: M.S. student
+affiliation: KAIST
+email: mailto:haneul.yoo@kaist.ac.kr
+# google_scholar: https://scholar.google.com/citations?hl=en&user=FsBF4xwAAAAJ
+github_link: https://github.com/haneul-yoo
+# linkedin: https://linkedin.com/in/rifki-afina-putri-73692a6b
+# avatar: ./assets/photo1.png
+description: Haneul Yoo's homepage.
