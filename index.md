@@ -22,13 +22,14 @@ My research interests are natural language processing are annotation artifact.
 <br>Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**
 <br>KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_ -->
 
-## Publication
+## Publications
 - Yohan Jo, Haneul Yoo, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](https://arxiv.org/abs/2109.09057)Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing _(EMNLP 2021, Findings)_
 - Moonsuk Choi, Inji Choi, Minhae Jang, Haneul Yoo, ["Proposal and Simulation of Optimal Elevtric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
-## Teaching & Talk
+## Talks & Teaching
 - **Teaching Assistant**, KAIST
-  - Machine Learning _(2020 Fall)_
+  - Machine Learning _(2021 Spring)_
+  - [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) _(2021 Fall)_
 
 ## Academic Services
 - **Reviewer**, NeurIPS 2021 Track on Datasets and Benchmarks
@@ -39,5 +40,5 @@ My research interests are natural language processing are annotation artifact.
 - **Excellence Award** from Korea Invention Promotion Association at Creative Start-up Competition _(Nov 2019)_
 - **Full Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
 
-## References
+## Reference
 - [Alice Oh](https://aliceoh9.github.io/), Associate Professor, Computer Science, KAIST
