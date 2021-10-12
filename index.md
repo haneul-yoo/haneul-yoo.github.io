@@ -42,7 +42,7 @@ My research interests are natural language processing and annotation artifacts.
 - **Outstanding Volunteer Award** at Gyeonggi Volunteer Center _(Jun 2020)_
 - **Special Prize** at BIXPO 2019 _(Nov 2019)_
 - **Excellence Award** from Korea Invention Promotion Association at Creative Start-up Competition _(Nov 2019)_
-- **Full Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
+- **Academic Excellence Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
 
 ## Reference
 - [Alice Oh](https://aliceoh9.github.io/), Associate Professor, Computer Science, KAIST
