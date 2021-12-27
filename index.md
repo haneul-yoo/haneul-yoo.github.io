@@ -45,4 +45,4 @@ My research interests are natural language processing and annotation artifacts.
 - **Academic Excellence Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
 
 ## Reference
-- [Alice Oh](https://aliceoh9.github.io/), Associate Professor, Computer Science, KAIST
+- [Alice Oh](https://aliceoh9.github.io/), Professor, Computer Science, KAIST
