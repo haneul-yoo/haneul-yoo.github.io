@@ -16,7 +16,7 @@ My research interest primarily lies in the intersection of natural language proc
 
 ## Publications
 - Juhee Son, Jiho Jin, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://arxiv.org/abs/2205.10019), _(arXiv preprint 2021)_
-- **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, "HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea", _(NAACL 2022, Findings)_
+- **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://openreview.net/forum?id=BClxLpGzB-9), _(NAACL 2022, Findings)_
 - Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264), _(EMNLP 2021, Findings)_
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
