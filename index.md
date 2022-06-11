@@ -1,10 +1,10 @@
 ## About
-Hi, I'm Haneul Yoo, M.S. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
-My research interests are natural language processing and computational social science.
+Hi, I'm Haneul Yoo, an M.S. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information Lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
+My research interest primarily lies in the intersection of natural language processing and computational social science.
 
 ## Education
 - **M.S.** Major in School of Computing, KAIST _(Sep 2020 - current)_
-- **B.S.** Double Major in Computer Science and Engineering and Digital Media, Ajou university _(Mar 2017 - Aug 2020)_
+- **B.S.** Double Major in Computer Science and Engineering and Digital Media, Ajou University _(Mar 2017 - Aug 2020)_
 
 ## Work Experiences
 - **Research Intern** at [KEPRI](https://www.kepri.re.kr:20808/), Daejeon, Korea _(Sep 2019 - Feb 2020)_
@@ -15,9 +15,10 @@ My research interests are natural language processing and computational social s
   - Establishment of an independent music platform and development of iOS application services
 
 ## Publications
-- **Haneul Yoo**, Jiho Jin, Juhee Son, Jinyeong Bak, Kyunghyu Cho, Alice Oh, "HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea", _(NAACL 2022, Findings)_
-- Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264)Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing _(EMNLP 2021, Findings)_
-- Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Elevtric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
+- Juhee Son, Jiho Jin, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://arxiv.org/abs/2205.10019), _(arXiv preprint 2021)_
+- **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, "HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea", _(NAACL 2022, Findings)_
+- Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264), _(EMNLP 2021, Findings)_
+- Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
 ## Talks & Teaching
 - **Teaching Assistant**, KAIST
@@ -28,6 +29,7 @@ My research interests are natural language processing and computational social s
   - Java at Maetan High School _(Spring 2019)_
 
 ## Academic Services
+- **Volunteer**, FAccT 2022
 - **Reviewer**, NeurIPS 2021 Track on Datasets and Benchmarks
 
 ## Honors & Awards
