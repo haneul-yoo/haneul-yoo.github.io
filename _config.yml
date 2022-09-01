@@ -22,16 +22,16 @@ search_full_content: true
 sidebar:
   - name: CV
     icon: <i class="fas fa-fw fa-file"></i>
-    url: "./assets/CV__Haneul_Yoo.pdf"
+    link: "./assets/CV__Haneul_Yoo.pdf"
   - name: Email
     icon: <i class="fas fa-fw fa-envelope-square"></i>
     link: "mailto:haneul.yoo@kaist.ac.kr"
   - name: Twitter
     icon: <i class="fab fa-fw fa-twitter-square"></i>
-    url: "https://twitter.com/HaneulYoo13"
+    link: "https://twitter.com/HaneulYoo13"
   - name: LinkedIn
     icon: <i class="fab fa-fw fa-linkedin"></i>
-    url: "https://linkedin.com/in/haneulyoo"
+    link: "https://linkedin.com/in/haneulyoo"
   - name: GitHub
     icon: <i class="fab fa-fw fa-github"></i>
     link: "https://github.com/haneul-yoo"
