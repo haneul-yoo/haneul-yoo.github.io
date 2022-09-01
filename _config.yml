@@ -16,7 +16,7 @@ search: true
 search_full_content: true
 
 author:
-  name     : "Haneul Yoo
+  name     : "Haneul Yoo"
   avatar   : "./assets/photo1.png"
   bio      : "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
   location : "Daejeon, South Korea"
