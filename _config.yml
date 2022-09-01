@@ -1,10 +1,3 @@
-# theme: jekyll-theme-minimal
-
-# title: Haneul Yoo
-# description: Ph.D. student<br>U&I Lab, School of Computing, KAIST<br>haneul.yoo@kaist.ac.kr
-# logo: ./assets/photo1.png
-# google_analytics: G-016QN3TNY0
-
 remote_theme: BDHU/minimalist
 plugins:
   - jekyll-paginate
@@ -21,11 +14,15 @@ color-scheme: auto
 title: Haneul Yoo
 description: "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
 logo: "./assets/photo1.png"
+google_analytics: G-016QN3TNY0
 
 search: true
 search_full_content: true
 
 sidebar:
+  - name: CV
+    icon: <i class="fas fa-fw fa-file"></i>
+    url: "./assets/CV__Haneul_Yoo.pdf"
   - name: Email
     icon: <i class="fas fa-fw fa-envelope-square"></i>
     link: "mailto:haneul.yoo@kaist.ac.kr"
