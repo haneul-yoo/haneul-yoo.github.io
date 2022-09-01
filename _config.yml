@@ -5,8 +5,7 @@
 # logo: ./assets/photo1.png
 # google_analytics: G-016QN3TNY0
 
-remote_theme: mmistakes/minimal-mistakes
-
+remote_theme: BDHU/minimalist
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -15,29 +14,27 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-minimal_mistakes_skin: "air"
-title: Haneul Yoo
 url: https://haneul-yoo.github.io
 repository: haneul-yoo/haneul-yoo.github.io
+color-scheme: auto
+
+title: Haneul Yoo
+description: "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
+logo: "./assets/photo1.png"
 
 search: true
 search_full_content: true
 
-author:
-  name     : "Haneul Yoo"
-  avatar   : "./assets/photo1.png"
-  bio      : "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
-  location : "Daejeon, South Korea"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:haneul.yoo@kaist.ac.kr"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/HaneulYoo13"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/haneulyoo"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/haneul-yoo"
+sidebar:
+  - name: Email
+    icon: <i class="fas fa-fw fa-envelope-square"></i>
+    link: "mailto:haneul.yoo@kaist.ac.kr"
+  - name: Twitter
+    icon: <i class="fab fa-fw fa-twitter-square"></i>
+    url: "https://twitter.com/HaneulYoo13"
+  - name: LinkedIn
+    icon: <i class="fab fa-fw fa-linkedin"></i>
+    url: "https://linkedin.com/in/haneulyoo"
+  - name: GitHub
+    icon: <i class="fab fa-fw fa-github"></i>
+    link: "https://github.com/haneul-yoo"
