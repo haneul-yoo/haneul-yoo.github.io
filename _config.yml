@@ -23,7 +23,7 @@ search_full_content: true
 sidebar:
   - name: CV
     icon: <i class="fas fa-fw fa-file"></i>
-    link: "./assets/CV__Haneul_Yoo.pdf"
+    link: "https://github.com/haneul-yoo/haneul-yoo.github.io/blob/53355c07c7f73389a21ba7b3bdb3170eaedb8408/assets/CV___Haneul_Yoo.pdf"
   - name: Email
     icon: <i class="fas fa-fw fa-envelope-square"></i>
     link: "mailto:haneul.yoo@kaist.ac.kr"
