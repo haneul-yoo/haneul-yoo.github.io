@@ -12,8 +12,8 @@ title: Haneul Yoo
 url: https://haneul-yoo.github.io
 repository: haneul-yoo/haneul-yoo.github.io
 
-search: true
-search_full_content: true
+# search: true
+# search_full_content: true
 
 author:
   name     : "Haneul Yoo"
