@@ -9,7 +9,8 @@ plugins:
 
 url: https://haneul-yoo.github.io
 repository: haneul-yoo/haneul-yoo.github.io
-color-scheme: auto
+# color-scheme: auto
+color-scheme: light
 
 title: Haneul Yoo
 description: "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
