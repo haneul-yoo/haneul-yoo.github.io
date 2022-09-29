@@ -40,7 +40,7 @@ I also believe language learners can contribute to NLP techniques and data and v
   - Java at Maetan High School _(Spring 2019)_
 
 ## Academic Services
-- **Volunteer**, FAccT (2022)
+- **Volunteer**, FAccT (2022), COLING (2022)
 - **Reviewer**, NeurIPS Track on Datasets and Benchmarks (2021), EMNLP (2022)
 
 ## Honors & Awards
