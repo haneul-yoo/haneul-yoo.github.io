@@ -27,6 +27,7 @@ I also believe language learners can contribute to NLP techniques and data and v
   - Establishment of an independent music platform and development of iOS application services
 
 ## Publications
+- **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828), _(under review)_
 - Juhee Son, Jiho Jin, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://arxiv.org/abs/2205.10019), _(EMNLP 2022, Findings)_
 - **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/), _(NAACL 2022, Findings)_
 - Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264), _(EMNLP 2021, Findings)_
