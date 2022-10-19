@@ -49,6 +49,7 @@ I also believe language learners can contribute to NLP techniques and data and v
 - **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021)), EMNLP ([2022](https://2022.emnlp.org/))
 
 ## Honors & Awards
+- **KAIST Support Scholarship** at KAIST _(Sep 2020 - current)_
 - **Graduation with Honors**, Summa Cum Laude (1st place) at Ajou University _(Aug 2020)_
 - **Outstanding Volunteer Award** at Gyeonggi Volunteer Center _(Jun 2020)_
 - **Special Prize** at BIXPO 2019 _(Nov 2019)_
@@ -56,4 +57,4 @@ I also believe language learners can contribute to NLP techniques and data and v
 - **Academic Excellence Scholarship** at Asan Foundation _(Mar 2017 - Aug 2020)_
 
 ## Reference
-- [Alice Oh](https://aliceoh9.github.io/), Professor, Computer Science, KAIST
+- [Alice Oh](https://aliceoh9.github.io/), Professor in School of Computing, KAIST
