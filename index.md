@@ -35,8 +35,8 @@ I also believe language learners can contribute to NLP techniques and data and v
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
 ## Talks & Teaching
-- **Teaching Assistant**, Naver Connect Foundation
-  -  [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html) _(Fall 2022)_
+- **Teaching Assistant**, NAVER Connect Foundation
+  -  [Boostcamp AI Tech 4th](https://boostcamp.connect.or.kr/program_ai.html) _(Fall 2022)_
 - **Teaching Assistant**, KAIST
   - [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) _(Fall 2021)_
   - Machine Learning _(Spring 2021, Fall 2022)_
