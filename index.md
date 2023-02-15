@@ -11,7 +11,7 @@ I also believe language learners can contribute to NLP techniques and data and v
 - **M.S.** in School of Computing, KAIST _(Sep 2020 - Aug 2022)_
   -  Advisor: Alice Oh
 - **B.S.** Double Major in Computer Science and Engineering and Digital Media, Ajou University _(Mar 2017 - Aug 2020)_
-  - Semester Abroad Winter 2018, WI, USA, University of Wisconsin-Stout
+  - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
 - **Research Intern** at [LAMDA Lab](https://sites.google.com/site/kasohn/group), Suwon, Korea _(Mar 2020 - Aug 2020)_
@@ -36,10 +36,12 @@ I also believe language learners can contribute to NLP techniques and data and v
 
 ## Talks & Teaching
 - **Teaching Assistant**, NAVER Connect Foundation
-  -  [Boostcamp AI Tech 4th](https://boostcamp.connect.or.kr/program_ai.html) _(Fall 2022)_
+  -  [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html) _(Spring 2023, Fall 2022)_
 - **Teaching Assistant**, KAIST
+  - AI Ethics _(Spring 2023)_
+  - AI and Its Social Impact _(Spring 2023)_
   - [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) _(Fall 2021)_
-  - Machine Learning _(Spring 2021, Fall 2022)_
+  - Machine Learning _(Fall 2022, Spring 2021)_
 - **Teacher**, [SWeat](https://www.facebook.com/SW.Education.And.Tutoring/)
   - Python at Suwon Information Science High School _(Spring 2020)_
   - Java at Maetan High School _(Spring 2019)_
