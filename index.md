@@ -27,11 +27,12 @@ I also believe language learners can contribute to NLP techniques and data and v
   - Establishment of an independent music platform and development of iOS application services
 
 ## Publications
-- **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828), _(under review)_
-- Juhee Son, Jiho Jin, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://arxiv.org/abs/2205.10019), _(EMNLP 2022, Findings)_
-- **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/), _(NAACL 2022, Findings)_
-- Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264), _(EMNLP 2021, Findings)_
-- **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification", (KICS Summer Conference 2020)
+- **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828) _(ACL 2023)_
+- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, Alice Oh, So-Yeon Ahn, "RECIPE: How to Integrate ChatGPT into EFL Writing Education" _(L@S 2023, Work in Progress)_
+- Juhee Son\*, Jiho Jin\*, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://arxiv.org/abs/2205.10019) _(EMNLP 2022, Findings)_
+- **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/) _(NAACL 2022, Findings)_
+- Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](http://dx.doi.org/10.18653/v1/2021.findings-emnlp.264) _(EMNLP 2021, Findings)_
+- **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS Summer Conference 2020)
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](http://dx.doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
 ## Talks & Teaching
@@ -48,7 +49,7 @@ I also believe language learners can contribute to NLP techniques and data and v
 
 ## Academic Services
 - **Volunteer**, FAccT ([2022](https://facctconference.org/2022/)), COLING ([2022](https://coling2022.org/))
-- **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021)), EMNLP ([2022](https://2022.emnlp.org/))
+- **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021), [2023](https://nips.cc/Conferences/2023)), EMNLP ([2022](https://2022.emnlp.org/))
 
 ## Honors & Awards
 - **KAIST Support Scholarship** at KAIST _(Sep 2020 - current)_
