@@ -28,14 +28,19 @@ I also believe language learners can contribute to NLP techniques and data and v
 
 ## Publications
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828) _(ACL 2023)_
-- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, Alice Oh, So-Yeon Ahn, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
+- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
 - Juhee Son\*, Jiho Jin\*, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://aclanthology.org/2022.findings-emnlp.91/) _(EMNLP 2022, Findings)_
 - **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/) _(NAACL 2022, Findings)_
 - Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](https://aclanthology.org/2021.findings-emnlp.264/) _(EMNLP 2021, Findings)_
 - **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS Summer Conference 2020)
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](https://doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
-## Talks & Teaching
+## Talks
+- **Guest Lecturer**, [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html)
+  - "Some Points that We Should Consider about Data-Centric NLP" _(May 2023)_
+  - "The Data You Created, Are You Sure It's Okay?" _(Dec 2022)_
+
+## Teaching Experiences
 - **Teaching Assistant**, NAVER Connect Foundation
   -  [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html) _(Spring 2023, Fall 2022)_
 - **Teaching Assistant**, KAIST
