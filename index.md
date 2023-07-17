@@ -14,7 +14,7 @@ I also believe recent advances in AI can assist language learners, and researche
   - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
-- **Visiting Student** at [Naver Cloud](https://www.navercloudcorp.com/), Suwon, Korea _(Mar 2023 - Current)_
+- **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Suwon, Korea _(Mar 2023 - Current)_
   - Construction and management of KoBBQ, Korean bias benchmark for question answering
   - Advisor: Hwaran Lee
 - **Research Intern** at [LAMDA Lab](https://sites.google.com/site/kasohn/group), Suwon, Korea _(Mar 2020 - Aug 2020)_
