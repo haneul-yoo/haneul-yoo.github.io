@@ -14,6 +14,9 @@ I also believe recent advances in AI can assist language learners, and researche
   - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
+- **Visiting Student** at [Naver Cloud](https://www.navercloudcorp.com/), Suwon, Korea _(Mar 2023 - Current)_
+  - Construction and management of KoBBQ, Korean bias benchmark for question answering
+  - Advisor: Hwaran Lee
 - **Research Intern** at [LAMDA Lab](https://sites.google.com/site/kasohn/group), Suwon, Korea _(Mar 2020 - Aug 2020)_
   - Study of Deep Learning Model for Bio-signal (EEG) Analysis
   - Advisor: Jungryul Seo, Kyung-Ah Sohn
@@ -21,12 +24,14 @@ I also believe recent advances in AI can assist language learners, and researche
   - Development of application services utilizing electric used power data
   - Advisor: Moonsuk Choi
 - **Research Intern** at [CSIRO](https://www.csiro.au/), QLD, Australia _(Jul 2019 - Aug 2019)_
-  - Convolutional deep neural network for detecting cattle in images/videos
+  - Development of convolutional deep neural network for detecting cattle in images/videos
   - Advisor: Brano Kusy
 - **Software Engineer** and **Co-founder** at Indielist, Suwon, Korea _(Jul 2018 - Jun 2019)_
   - Establishment of an independent music platform and development of iOS application services
 
 ## Publications
+_* denotes equal contributions_
+
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828) _(ACL 2023)_
 - Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
 - Juhee Son\*, Jiho Jin\*, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://aclanthology.org/2022.findings-emnlp.91/) _(EMNLP 2022, Findings)_
