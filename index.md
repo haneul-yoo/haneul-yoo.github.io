@@ -32,7 +32,9 @@ I also believe recent advances in AI can assist language learners, and researche
 ## Publications
 _* denotes equal contributions_
 
-- **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://arxiv.org/abs/2210.06828) _(ACL 2023)_
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, "FABRIC: Automated Scoring and Feedback Generation for Essays" _(under review)_
+- Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(preprint)_
+- **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://aclanthology.org/2023.acl-long.822/) _(ACL 2023)_
 - Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
 - Juhee Son\*, Jiho Jin\*, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://aclanthology.org/2022.findings-emnlp.91/) _(EMNLP 2022, Findings)_
 - **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/) _(NAACL 2022, Findings)_
