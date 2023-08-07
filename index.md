@@ -1,5 +1,5 @@
 ## About
-Hi, I'm Haneul Yoo, an Ph.D. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information Lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
+Hi, I'm Haneul Yoo, a Ph.D. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information Lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
 My research interest primarily lies in the field of natural language processing and machine learning.
 In particular, I am dedicated to (1) data-centric and multilingual NLP and (2) LLM-driven education innovation.
 I believe there are still myriads of underrepresented languages in NLP, and our efforts on low-resource languages can build more culturally-diverse language models.
@@ -10,11 +10,15 @@ I also believe recent advances in AI can assist language learners, and researche
    - Advisor: Alice Oh  
 - **M.S.** in School of Computing, KAIST _(Sep 2020 - Aug 2022)_
   -  Advisor: Alice Oh
-- **B.S.** Double Major in Computer Science and Engineering and Digital Media, Ajou University _(Mar 2017 - Aug 2020)_
+- **B.S.** in Computer Science and Engineering, Ajou University _(Mar 2017 - Aug 2020)_
+- **B.S.** in Digital Media, Ajou University _(Mar 2017 - Aug 2020)_
   - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
-- **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Suwon, Korea _(Mar 2023 - Current)_
+- **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Nov 2023)_
+  - Construction and management of Korean evaluation benchmark for LLMs
+  - Advisor: Jiyoon Han
+- **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Suwon, Korea _(Mar 2023 - Jul 2023)_
   - Construction and management of KoBBQ, Korean bias benchmark for question answering
   - Advisor: Hwaran Lee
 - **Research Intern** at [LAMDA Lab](https://sites.google.com/site/kasohn/group), Suwon, Korea _(Mar 2020 - Aug 2020)_
