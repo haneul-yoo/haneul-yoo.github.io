@@ -17,7 +17,7 @@ I also believe recent advances in AI can assist language learners, and researche
 ## Work Experiences
 - **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Nov 2023)_
   - Construction and management of Korean evaluation benchmark for LLMs
-  - Advisor: Jiyoon Han
+  - Advisor: Taehwan Oh, Jiyoon Han
 - **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Suwon, Korea _(Mar 2023 - Jul 2023)_
   - Construction and management of KoBBQ, Korean bias benchmark for question answering
   - Advisor: Hwaran Lee
