@@ -55,6 +55,7 @@ _* denotes equal contributions_
 - **Teaching Assistant**, NAVER Connect Foundation
   -  [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html) _(Spring 2023, Fall 2022)_
 - **Teaching Assistant**, KAIST
+  - ML for NLP _(Fall 2023)_
   - AI Ethics _(Spring 2023)_
   - AI and Its Social Impact _(Spring 2023)_
   - [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) _(Fall 2021)_
