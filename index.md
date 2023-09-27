@@ -36,6 +36,7 @@ I also believe recent advances in AI can assist language learners, and researche
 ## Publications
 _* denotes equal contributions_
 
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["ChEDDAR: Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(preprint)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, "FABRIC: Automated Scoring and Feedback Generation for Essays" _(under review)_
 - Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(preprint)_
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://aclanthology.org/2023.acl-long.822/) _(ACL 2023)_
