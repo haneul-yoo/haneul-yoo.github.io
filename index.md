@@ -18,7 +18,7 @@ I also believe recent advances in AI can assist language learners, and researche
 - **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Nov 2023)_
   - Construction and management of Korean evaluation benchmark for LLMs
   - Advisor: Taehwan Oh, Jiyoon Han
-- **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Suwon, Korea _(Mar 2023 - Jul 2023)_
+- **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Sungnam, Korea _(Mar 2023 - Jul 2023)_
   - Construction and management of KoBBQ, Korean bias benchmark for question answering
   - Advisor: Hwaran Lee
 - **Research Intern** at [LAMDA Lab](https://sites.google.com/site/kasohn/group), Suwon, Korea _(Mar 2020 - Aug 2020)_
@@ -36,8 +36,8 @@ I also believe recent advances in AI can assist language learners, and researche
 ## Publications
 _* denotes equal contributions_
 
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, ["FABRIC: Automated Scoring and Feedback Generation for Essays"](https://arxiv.org/abs/2310.05191) _(preprint)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["ChEDDAR: Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(preprint)_
-- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, "FABRIC: Automated Scoring and Feedback Generation for Essays" _(under review)_
 - Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(preprint)_
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://aclanthology.org/2023.acl-long.822/) _(ACL 2023)_
 - Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
