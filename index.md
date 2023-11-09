@@ -15,7 +15,7 @@ I also believe recent advances in AI can assist language learners, and researche
   - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
-- **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Nov 2023)_
+- **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Feb 2024)_
   - Construction and management of Korean evaluation benchmark for LLMs
   - Advisor: Taehwan Oh, Jiyoon Han
 - **Visiting Student** at [Naver AI Lab](https://clova.ai/en/), Sungnam, Korea _(Mar 2023 - Jul 2023)_
@@ -36,14 +36,25 @@ I also believe recent advances in AI can assist language learners, and researche
 ## Publications
 _* denotes equal contributions_
 
+### Under Review / Preprints
+- Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(under review)_
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, "RECIPE4U: Exploring Student-ChatGPT Dialogue in EFL Writing Education" _(under review)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, ["FABRIC: Automated Scoring and Feedback Generation for Essays"](https://arxiv.org/abs/2310.05191) _(preprint)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["ChEDDAR: Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(preprint)_
 - Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(preprint)_
+
+### International Conferences
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://aclanthology.org/2023.acl-long.822/) _(ACL 2023)_
-- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
 - Juhee Son\*, Jiho Jin\*, **Haneul Yoo**, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["Translating Hanja historical documents to understandable Korean and English"](https://aclanthology.org/2022.findings-emnlp.91/) _(EMNLP 2022, Findings)_
 - **Haneul Yoo**, Jiho Jin, Juhee Son, JinYeong Bak, Kyunghyun Cho, Alice Oh, ["HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea"](https://aclanthology.org/2022.findings-naacl.140/) _(NAACL 2022, Findings)_
 - Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](https://aclanthology.org/2021.findings-emnlp.264/) _(EMNLP 2021, Findings)_
+
+### Workshops / Posters
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["Exploring Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(NeurIPS 2023 Workshop)_
+- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
+
+
+### Domestic Journals / Conferences
 - **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS Summer Conference 2020)
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](https://doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
