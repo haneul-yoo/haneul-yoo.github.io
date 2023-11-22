@@ -54,6 +54,7 @@ _* denotes equal contributions_
 
 
 ### Domestic Journals / Conferences
+- Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(KAIA Fall Conference 2023)_
 - **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS Summer Conference 2020)
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](https://doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
@@ -66,6 +67,7 @@ _* denotes equal contributions_
 - **Teaching Assistant**, NAVER Connect Foundation
   -  [AI Tech Boostcamp](https://boostcamp.connect.or.kr/program_ai.html) _(Spring 2023, Fall 2022)_
 - **Teaching Assistant**, KAIST
+  - The Many Voices of ChatGPT: Exploring Linguistic Diversity _(Spring - Fall 2023)_
   - ML for NLP _(Fall 2023)_
   - AI Ethics _(Spring 2023)_
   - AI and Its Social Impact _(Spring 2023)_
