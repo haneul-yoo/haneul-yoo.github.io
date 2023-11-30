@@ -1,5 +1,5 @@
 ## About
-Hi, I'm Haneul Yoo, a Ph.D. student advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information Lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
+Hi, I'm Haneul Yoo, a Ph.D. candidate advised by [Alice Oh](https://aliceoh9.github.io/) at [Users & Information Lab](http://uilab.kr/), [School of Computing](https://cs.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/).
 My research interest primarily lies in the field of natural language processing and machine learning.
 In particular, I am dedicated to (1) data-centric and multilingual NLP and (2) LLM-driven education innovation.
 I believe there are still myriads of underrepresented languages in NLP, and our efforts on low-resource languages can build more culturally-diverse language models.
