@@ -37,7 +37,6 @@ I also believe recent advances in AI can assist language learners, and researche
 _* denotes equal contributions_
 
 ### Under Review / Preprints
-- Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(under review)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, "RECIPE4U: Exploring Student-ChatGPT Dialogue in EFL Writing Education" _(under review)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, ["FABRIC: Automated Scoring and Feedback Generation for Essays"](https://arxiv.org/abs/2310.05191) _(preprint)_
 - Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(preprint)_
@@ -54,8 +53,8 @@ _* denotes equal contributions_
 
 
 ### Domestic Journals / Conferences
-- Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(KAIA Fall Conference 2023)_
-- **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS Summer Conference 2020)
+- Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(JKAIA 2023)_
+- **Haneul Yoo**, Jungryul Seo, Kyung-Ah Sohn "Image-based Deep Learning Approach for EEG Signal Classification" (KICS 2020)
 - Moonsuk Choi, Inji Choi, Minhae Jang, **Haneul Yoo**, ["Proposal and Simulation of Optimal Electric Vehicle Routing Algorithm"](https://doi.org/10.18770/KEPCO.2020.06.01.059), KEPCO Journal on Electric Power and Energy Volume 6, Number 1, March 2020, pp.59-64 _(KEPCO 2020)_
 
 ## Talks
