@@ -48,9 +48,8 @@ _* denotes equal contributions_
 - Yohan Jo, **Haneul Yoo**, JinYeong Bak, Alice Oh, Chris Reed, Eduard Hovy, ["Knowledge-Enhanced Evidence Retrieval for Counterargument Generation"](https://aclanthology.org/2021.findings-emnlp.264/) _(EMNLP 2021, Findings)_
 
 ### Workshops / Posters
-- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["Exploring Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(NeurIPS 2023 Workshop)_
-- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://arxiv.org/abs/2305.11583) _(L@S 2023, Work in Progress)_
-
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["Exploring Student-ChatGPT Dialogue in EFL Writing Education"](https://gaied.org/neurips2023/files/19/19_paper.pdf) _(NeurIPS 2023 Workshop)_
+- Jieun Han\*, **Haneul Yoo**\*, Yoonsu Kim, Junho Myung, Minsun Kim, Hyunseung Lim, Juho Kim, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh, ["RECIPE: How to Integrate ChatGPT into EFL Writing Education"](https://doi.org/10.1145/3573051.3596200) _(L@S 2023, Work in Progress)_
 
 ### Domestic Journals / Conferences
 - Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, "CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean" _(JKAIA 2023)_
