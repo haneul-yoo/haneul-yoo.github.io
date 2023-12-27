@@ -77,7 +77,7 @@ _* denotes equal contributions_
 
 ## Academic Services
 - **Volunteer**, FAccT ([2022](https://facctconference.org/2022/)), COLING ([2022](https://coling2022.org/))
-- **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021), [2023](https://nips.cc/Conferences/2023)), EMNLP ([2022](https://2022.emnlp.org/))
+- **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021), [2023](https://nips.cc/Conferences/2023)), EMNLP ([2022](https://2022.emnlp.org/)), ARR ([2023-](https://aclrollingreview.org/))
 
 ## Honors & Awards
 - **KAIST Support Scholarship** at KAIST _(Sep 2020 - current)_
