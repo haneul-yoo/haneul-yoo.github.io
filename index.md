@@ -15,6 +15,9 @@ I also believe recent advances in AI can assist language learners, and researche
   - Semester Abroad Winter 2018, WI, USA, University of Wisconsin - Stout
 
 ## Work Experiences
+- **Research Intern** at [Naver AI Lab](https://clova.ai/en/), Sungnam, Korea _(Mar 2024 - May 2024)_
+  - Development of multilingual LLM using code-switching corpora
+  - Advisor: Hwaran Lee
 - **Data Management Intern** at [Upstage](https://www.upstage.ai/), Remote _(Aug 2023 - Feb 2024)_
   - Construction and management of Korean evaluation benchmark for LLMs
   - Advisor: Taehwan Oh, Jiyoon Han
@@ -37,7 +40,7 @@ I also believe recent advances in AI can assist language learners, and researche
 _* denotes equal contributions_
 
 ### Under Review / Preprints
-- **Haneul Yoo**, Jieun Han, So-Yeon Ahn, Alice Oh, "DREsS: Dataset for Rubric-based Essay Scoring on EFL Writing" _(under review)_
+- **Haneul Yoo**, Jieun Han, So-Yeon Ahn, Alice Oh, ["DREsS: Dataset for Rubric-based Essay Scoring on EFL Writing"](http://arxiv.org/abs/2402.16733) _(under review)_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, ["FABRIC: Automated Scoring and Feedback Generation for Essays"](https://arxiv.org/abs/2310.05191) _(preprint)_
 
 ### International Journals / Conferences
@@ -73,7 +76,7 @@ _* denotes equal contributions_
   - AI and Its Social Impact _(Spring 2023)_
   - [KAIST SoC Colloquium](https://cs.kaist.ac.kr/colloquium/) _(Fall 2021)_
   - Machine Learning _(Fall 2022, Spring 2021)_
-- **Teacher**, [SWeat](https://www.facebook.com/SW.Education.And.Tutoring/)
+- **Lecturer**, [SWeat](https://www.facebook.com/SW.Education.And.Tutoring/)
   - Python at Suwon Information Science High School _(Spring 2020)_
   - Java at Maetan High School _(Spring 2019)_
 
