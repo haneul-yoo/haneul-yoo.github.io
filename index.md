@@ -44,7 +44,7 @@ _* denotes equal contributions_
 - Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Hyunseung Lim, Yoonsu Kim, Tak Yeon Lee, Hwajung Hong, Juho Kim, So-Yeon Ahn, Alice Oh, ["FABRIC: Automated Scoring and Feedback Generation for Essays"](https://arxiv.org/abs/2310.05191) _(preprint)_
 
 ### International Journals / Conferences
-- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, "RECIPE4U: Exploring Student-ChatGPT Dialogue in EFL Writing Education" _(LREC-COLING 2024)_
+- Jieun Han\*, **Haneul Yoo**\*, Junho Myung, Minsun Kim, Tak Yeon Lee, So-Yeon Ahn, Alice Oh, ["RECIPE4U: Exploring Student-ChatGPT Dialogue in EFL Writing Education"](https://arxiv.org/abs/2309.13243) _(LREC-COLING 2024)_
 - Juyoung Suk\*, Eunsu Kim\*, Philhoon Oh, **Haneul Yoo**, James Throne, Alice Oh, ["CLIcK: Evaluation of Cultural and Linguistic Intelligence in Korean"](https://arxiv.org/abs/2403.06412) _(LREC-COLING 2024)_
 - Jiho Jin\*, Jiseon Kim\*, Nayeon Lee\*, **Haneul Yoo**\*, Alice Oh, Hwaran Lee, ["KoBBQ: Korean Bias Benchmark for Question Answering"](https://arxiv.org/abs/2307.16778) _(TACL 2024)_
 - **Haneul Yoo**, Rifki Afina Putri, Changyoon Lee, Youngin Lee, So-Yeon Ahn, Dongyeop Kang, Alice Oh, ["Rethinking Annotation: Can Language Learners Contribute?"](https://aclanthology.org/2023.acl-long.822/) _(ACL 2023)_
@@ -81,6 +81,7 @@ _* denotes equal contributions_
   - Java at Maetan High School _(Spring 2019)_
 
 ## Academic Services
+- **Program Committee**, ACL 2024 Workshop [(ML4AL)](https://www.ml4al.com/)
 - **Volunteer**, FAccT ([2022](https://facctconference.org/2022/)), COLING ([2022](https://coling2022.org/))
 - **Reviewer**, NeurIPS ([2021](https://nips.cc/Conferences/2021), [2023](https://nips.cc/Conferences/2023)), EMNLP ([2022](https://2022.emnlp.org/)), ARR ([2023-](https://aclrollingreview.org/))
 
